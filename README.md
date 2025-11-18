@@ -109,7 +109,6 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Community
 - [Reddit – r/x402](https://www.reddit.com/r/x402/)
 - [Discord – Coinbase Developer Platform](https://discord.com/invite/cdp)
-- [x402 Discord Community](https://discord.gg/x402)
 
 ### Contributing
 - Add high-signal links: specifications, reference implementations, deep-dive posts, audits, and example apps.
