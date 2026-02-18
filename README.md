@@ -70,7 +70,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [How to Get Started with x402 on Solana](https://solana.com/developers/guides/getstarted/intro-to-x402) – Official Solana guide for integrating x402 payments on Solana networks.
 
 ### Example Apps
-- [CrossFin](https://crossfin.dev) — x402 Agent Services Gateway with 15 paid Korean market data APIs (Kimchi Premium, KOSPI, Bithumb, Upbit, Coinone, FX, headlines, trading signals). First financial data APIs in the x402 ecosystem. MCP server included.
+- [CrossFin](https://crossfin.dev) — x402 Agent Services Gateway with 35 paid Korean market APIs (kimchi premium, 5-exchange routing engine, stock analysis, ETF, bundle APIs), 184 service registry, and MCP server (16 tools). Live demo at [live.crossfin.dev](https://live.crossfin.dev).
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
